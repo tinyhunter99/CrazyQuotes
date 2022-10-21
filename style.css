@@ -7,7 +7,7 @@
 }
 
 body{
-    background-color: #4a9cfd;
+    background-image:url("./assets/image.jpg");
     height: 100vh;
     width: 100vw;
     display: flex;
@@ -16,7 +16,7 @@ body{
 }
 
 .container{
-    background-color: white;
+    background-color: lavender;
     display: flex;
     flex-direction: column;
     width: 400px;
@@ -49,12 +49,12 @@ body{
     border: none;
     padding: 7px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    background-color: #4a9cfd;
+    background-color: darkblue;
     cursor: pointer;
     color: white;
     border-bottom-right-radius: 10px;
     border-bottom-left-radius: 10px;
 }
 #btn:hover{
-    background-color: #7ab7ff;
+    background-color: palevioletred;
 }
