@@ -1,2 +1,3 @@
 # CrazyQuotes
-CrazyQuotes is a quote website in which you can fetch the random qoutes by clicking a button
+
+CrazyQuotes is an awesome website which keeps you only one click away from reading the interesting quotes.
